@@ -1,0 +1,19 @@
+.jumbotron h1 {
+    color:rgb(255, 255, 255);
+}
+
+.jumbotron p {
+    color:rgb(253, 253, 253);
+}
+
+.white-text h2 {
+    color: rgb(25, 68, 105);
+}
+
+.white-text p {
+    color: rgb(25, 68, 105);
+}
+
+body {
+    background-color: rgb(164, 216, 240);
+}
