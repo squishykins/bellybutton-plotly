@@ -7,13 +7,14 @@
 }
 
 .white-text h2 {
-    color: rgb(25, 68, 105);
+    color: #ddbf93;
+    text-decoration: underline;
 }
 
 .white-text p {
-    color: rgb(25, 68, 105);
+    color: #ddbf93;
 }
 
 body {
-    background-color: rgb(164, 216, 240);
+    background-color: rgba(86, 30, 30, 0.596);
 }
